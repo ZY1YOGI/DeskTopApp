@@ -1,0 +1,12 @@
+<RCC>
+  <qresource>
+    <file>img/icons/home.svg</file>
+    <file>img/icons/settings.svg</file>
+    <file>img/icons/students.svg</file>
+    <file>img/icons/Exit.svg</file>
+    <file>img/icons/minimize.png</file>
+    <file>img/icons/Done-icon.png</file>
+    <file>img/icons/Error-icon.png</file>
+    <file>img/icons/Logo-icon.png</file>
+  </qresource>
+</RCC>
